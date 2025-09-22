@@ -28,8 +28,8 @@ A curated list of awesome things related to <a href='https://github.com/better-a
 |------|-------------|------|
 | `reverify` (archived) | Prompt the user to re-verify their identity by providing a form of authentication for revalidation | [Link](https://github.com/ping-maxwell/better-auth-kit/tree/main/packages/plugins/reverify) |
 | `legal-consent` (archived) | A Legal Consent plugin for BetterAuth | [Link](https://github.com/ping-maxwell/better-auth-kit/tree/main/packages/plugins/legal-consent) |
-| `@better-auth-extended/test-utils` | A collection of utilities to help you test your Better-Auth plugins | [Link](https://github.com/jslno/better-auth-extended/tree/main/packages/libraries/test-utils) |
-| `@better-auth-extended/app-invite` | Invite users to your application and allow them to sign up. | [Link](https://github.com/jslno/better-auth-extended/tree/main/packages/plugins/app-invite) |
+| `@better-auth-extended/test-utils` | A collection of utilities to help you test your Better-Auth plugins | [Link](https://github.com/better-auth-extended/better-auth-extended/tree/main/packages/libraries/test-utils) |
+| `@better-auth-extended/app-invite` | Invite users to your application and allow them to sign up. | [Link](https://github.com/better-auth-extended/better-auth-extended/tree/main/packages/plugins/app-invite) |
 | `seed` (archived) | Seed your Better-Auth database with deterministic, yet realistic, fake data to populate your database | [Link](https://github.com/ping-maxwell/better-auth-kit/tree/main/packages/libraries/seed) |
 | `polar` | A Better Auth plugin for integrating Polar payments and subscriptions into your authentication flow | [Link](https://docs.polar.sh/integrate/sdk/adapters/better-auth) |
 | `expo-passkey` | A Better Auth plugin enabling secure, passwordless authentication in Expo applications through native biometric authentication | [Link](https://github.com/iosazee/expo-passkey) |
